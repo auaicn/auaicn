@@ -3,8 +3,10 @@ Issues on JIRA
 
 ## For me, commit Rule
 
-- Title in english.  
+- title starts in CAPITALIZED CHARACTER
+- title in english.   
 - contents in Korean.  
+- contents, focus on `what`, `why` rather than `how`  
 - variable, classes should be wrapped by `  
 
 ### Example
