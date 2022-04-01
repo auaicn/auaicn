@@ -1,46 +1,54 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kyungho,%20Park&fontSize=60&fontAlignY=40&animation=fadeIn&desc=@auaicn%20from%20(Korea)&descSize=20&descAlign=62)
 
-<h3 align="center">🌈 Contact Me 🌈</h3>
-<p align="center">
-  <a href="mailto:crorowslowpp@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eunjinhh131@gmail.com"/></a>
-</p>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Mysql-E4B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mongodb-092E20?style=flat-square&logo=Mongodb&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mariadb-1239EA?style=flat-square&logo=Mariadb&logoColor=white"/></a>&nbsp 
-</p>
+```diff
++ I'm general frontend-developer
+- Flutter is my strength
+@@ but also have experiences constructing DevOps using Jenkins & API Server @@
+```
 
-<h3 align="center"> 👩‍💻 Experiences 👩‍💻 </h3>
+<h3 align="center"> 🕊 Contact 🦅 </h3>
 <p align="center">
-<!--   <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)</li>
-<!--   <li align ="center">2021 SKKU AI Bookathon, 1st place (2021.11)</li> -->
-<!--   <li align ="center">2021 Summer Samsung SDS Algorithm Class (2021.08 ~ 2021.08)</li>
-<!--   <li align ="center">SI Analytics, Internship (2020.09 ~ 2021.02)</li> -->
-<!--   <li align ="center">Hanyang University, Capstone Project Competition, 1st place (2020.03 ~ 2020.10)</li> -->
-<!--   <li align ="center">KAIST Madcamp (2020.07 ~ 2020.08) </li> -->
-<!--   <li align ="center">Apgujeong CIT Coding Academy, Python Instructor (2019.06 ~ 2019.12)</li> --> -->
-  <li align ="center">Hanyang University, Computer Software B.S.(2017.03 ~ 2022.02)</li>
+  <a href="mailto:crorowslowpp@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crorowslowpp@gmail.com"/>
+  </a>
+  <a href="https://devlog-kyungho.netlify.app/">
+     <img src="https://img.shields.io/badge/Blog-00C7B7?style=flat-square&logo=Netlify&logoColor=white&link=devlog-kyungho.netlify.app/"/>
+  </a>
 </p>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-https://img.shields.io/badge/label-message-brightgreen
-  
-### Github Stats 🍀
-[![auaicn's GitHub stats](https://github-readme-stats.vercel.app/api?username=auaicn&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> 🔥 Tech Stack 💡 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=Google-Analytics&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auaicn)](https://github.com/auaicn/github-readme-stats)
+<h3 align="center"> 🧑 Experiences 👩‍💻 </h3>
+<p align="center">
+  <li align ="center"> Vetching, Cloud EMR Desktop Application Developer (2022.03 ~ <strong>NOW</strong>)</li>
+  <li align ="center"> EY-LABS Mobile Developer (2022.02 ~ <strong>NOW</strong>)</li>
+  <li align ="center"> Hanyang University, Capstone Project Competition, 3st place (2021.03 ~ 2021.12)</li> 
+  <li align ="center"> Hanyang University, Entrepreneurship Competition, 3st place (2021.03 ~ 2021.07)</li>   
+  <li align ="center"> Software maestro 12th (2021.02 ~ 2022.01)</li>
+  <li align ="center"> Allmighty IT, Mobile Developer Intern (2020.12 ~ 2021.02)</li>
+  <li align ="center"> KAIST Madcamp (2020.07 ~ 2020.08) </li> 
+  <li align ="center"> Hanyang University, Computer Software B.S.(2016.03 ~ <strong>NOW</strong>)</li>
+</p>
 
+<h3 align="center"> Miscellaneous </h3>
+<p align="center">
+  <li align ="center"> AWS Certificated Solutions Architect - Associate (Achived 2021.12)</li>
+  <li align ="center"> TOPCIT Level 3 (Scored 2021.09)</li>
+</p>
 
-
-### Others 🍀
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=auaicn)](https://solved.ac/auaicn)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=auaicn)](https://solved.ac/auaicn)
