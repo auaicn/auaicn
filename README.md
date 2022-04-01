@@ -51,4 +51,4 @@
   <li align ="center"> TOPCIT Level 3 (Scored 2021.09)</li>
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=auaicn)](https://solved.ac/auaicn)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=auaicn)](https://solved.ac/auaicn)
