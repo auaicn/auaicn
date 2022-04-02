@@ -49,6 +49,9 @@
 <p align="center">
   <li align ="center"> AWS Certificated Solutions Architect - Associate (Achived 2021.12)</li>
   <li align ="center"> TOPCIT Level 3 (Scored 2021.09)</li>
+  <p/>
+  <p align="center"> BaekJoon Algorithm Rank </p>  
+  <p align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=auaicn">
+  </p>
 </p>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=auaicn)](https://solved.ac/auaicn)
