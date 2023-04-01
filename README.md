@@ -35,8 +35,8 @@
 
 <h3 align="center"> 🧑 Experiences 👩‍💻 </h3>
 <p align="center">
-<!--   <li align ="center"> Vetching, Cross-Platform Mobile Developer (2022.10 ~ <strong>NOW</strong>)</li> -->
-  <li align ="center"> Vetching, Cloud EMR Desktop Application Developer (2022.03 ~ <strong>NOW</strong>)</li>
+  <li align ="center"> Vetching, Cross-Platform Mobile Lead Developer (2022.03 ~ <strong>NOW</strong>)</li>
+  <li align ="center"> Vetching, Cloud EMR Desktop Application Developer (2022.03 ~ 2022.03)</li>
   <li align ="center"> Hanyang University, Capstone Project Competition, 3st place (2021.03 ~ 2021.12)</li> 
   <li align ="center"> Hanyang University, Entrepreneurship Competition, 3st place (2021.03 ~ 2021.07)</li>   
   <li align ="center"> Software maestro 12th (2021.02 ~ 2022.01)</li>
