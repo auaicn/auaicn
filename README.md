@@ -28,16 +28,21 @@
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white"/></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=Google-Analytics&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GithubActions-276EDE?style=flat-square&logo=GithubActions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElectronBuilder-black?style=flat-square&logo=ElectronBuilder&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=Google-Analytics&logoColor=white"/></a>
+</p>
+
 
 <h3 align="center"> 🧑 Experiences 👩‍💻 </h3>
 <p align="center">
-  <li align ="center"> Vetching, Cross-Platform Mobile Lead Developer (2022.03 ~ <strong>NOW</strong>)</li>
-  <li align ="center"> Vetching, Cloud EMR Desktop Application Developer (2022.03 ~ 2022.03)</li>
+  <li align ="center"> Vetching, Cross-Platform Mobile Lead Developer (2023.03 ~ <strong>NOW</strong>)</li>
+  <li align ="center"> Vetching, Cloud EMR Desktop Application Developer (2022.03 ~ 2023.03)</li>
   <li align ="center"> Hanyang University, Capstone Project Competition, 3st place (2021.03 ~ 2021.12)</li> 
   <li align ="center"> Hanyang University, Entrepreneurship Competition, 3st place (2021.03 ~ 2021.07)</li>   
   <li align ="center"> Software maestro 12th (2021.02 ~ 2022.01)</li>
