@@ -76,7 +76,7 @@
   <li align ="start"> Software maestro 12th (2021.02 ~ 2022.01)</li>
   <li align ="start"> Allmighty IT, Mobile Developer Intern (2020.12 ~ 2021.02)</li>
   <li align ="start"> KAIST Madcamp (2020.07 ~ 2020.08) </li> 
-  <li align ="start"> Hanyang University, Computer Software B.S.(2016.03 ~ <strong>NOW</strong>)</li>
+  <li align ="start"> Hanyang University, Computer Software B.S.(2016.03 ~ 2021.08)</li>
 </p>
 
 <h3 align="start"> Miscellaneous </h3>
